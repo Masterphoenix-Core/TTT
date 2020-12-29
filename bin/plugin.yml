@@ -1,0 +1,11 @@
+main: de.master.ttt.main.Main
+name: TTT
+version: 1.0
+author: Masterphoenix_
+commands:
+  setup:
+    description: Setze einige Setups.
+  start:
+    description: Starte ein Spiel.
+  build:
+    description: Aktiviere den Buildmodus.
